@@ -1,2 +1,2 @@
-# Chinese Class
-### Welcome to Walter's Chinese Class App!
+# AltStore
+### Welcome to AltStore.

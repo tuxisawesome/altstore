@@ -1,7 +1,7 @@
 {
-    "name": "Chinese Class",
-    "short_name": "Chinese",
-    "description": "Chinese Class Review App",
+    "name": "AltStore",
+    "short_name": "Store",
+    "description": "PWA Alternate Store for Apps",
    
     "scope": "/",
     "start_url": "/",
